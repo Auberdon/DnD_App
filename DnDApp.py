@@ -31,7 +31,7 @@ def stat_roll():
     cha_score.insert(0,charisma)
 def open_name():
     wb.open("https://www.fantasynamegenerators.com/")    
-
+ 
 
 
 window = tk.Tk()
